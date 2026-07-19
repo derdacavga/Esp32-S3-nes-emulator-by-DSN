@@ -9,14 +9,17 @@ A high-performance, DIY handheld NES (Nintendo Entertainment System) emulator po
 
 ## 📺 Video Tutorial
 Build your own following the step-by-step guide!
+
 [![Watch the tutorial](https://img.youtube.com/vi/wruJ-BESnX8/0.jpg)](https://www.youtube.com/watch?v=wruJ-BESnX8)
 
 ## 📺 New Version for Esp32
 https://github.com/derdacavga/Esp32-Nes-Emulator
+
 [![Watch the tutorial](https://img.youtube.com/vi/O2TaipFjLDM/0.jpg)](https://www.youtube.com/watch?v=O2TaipFjLDM)
 
 ## 📺 Universal Version
 https://github.com/derdacavga/DSN-Nes-Emulator-Universal
+
 [![Watch the tutorial](https://img.youtube.com/vi/SfLk6zZxBrA/0.jpg)](https://www.youtube.com/watch?v=SfLk6zZxBrA)
 
 ## ✨ Features
