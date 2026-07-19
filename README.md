@@ -8,21 +8,15 @@ Original Repo : https://github.com/espressif/esp32-nesemu/tree/master/components
 A high-performance, DIY handheld NES (Nintendo Entertainment System) emulator powered by the ESP32-S3 microcontroller. This project features high-quality audio via I2S, smooth rendering on an ST7789 display, and games loaded directly from an SD card.
 
 ## 📺 Video Tutorial
-
-Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
-
+Build your own following the step-by-step guide!
 [![Watch the tutorial](https://img.youtube.com/vi/wruJ-BESnX8/0.jpg)](https://www.youtube.com/watch?v=wruJ-BESnX8)
 
-> **Click the image above to watch the full tutorial on YouTube.**
-
 ## 📺 New Version for Esp32
-
-Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
-
+https://github.com/derdacavga/Esp32-Nes-Emulator
 [![Watch the tutorial](https://img.youtube.com/vi/O2TaipFjLDM/0.jpg)](https://www.youtube.com/watch?v=O2TaipFjLDM)
 
 ## 📺 Universal Version
-
+https://github.com/derdacavga/DSN-Nes-Emulator-Universal
 [![Watch the tutorial](https://img.youtube.com/vi/SfLk6zZxBrA/0.jpg)](https://www.youtube.com/watch?v=SfLk6zZxBrA)
 
 ## ✨ Features
