@@ -15,6 +15,20 @@ Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
 
 > **Click the image above to watch the full tutorial on YouTube.**
 
+## 📺 New Version for Esp32
+
+Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
+
+[![Watch the tutorial](https://img.youtube.com/vi/O2TaipFjLDM/0.jpg)](https://www.youtube.com/watch?v=O2TaipFjLDM)
+
+## 📺 Universal Version
+
+Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
+
+[![Watch the tutorial](https://img.youtube.com/vi/wruJ-BESnX8/0.jpg)](https://www.youtube.com/watch?v=SfLk6zZxBrA)
+
+> **Click the image above to watch the full tutorial on YouTube.**
+https://youtu.be/O2TaipFjLDM
 ## ✨ Features
 
 * **Full Speed Emulation:** Runs NES games smoothly thanks to the ESP32-S3's dual-core power.
