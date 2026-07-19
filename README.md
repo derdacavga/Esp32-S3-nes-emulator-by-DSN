@@ -23,12 +23,8 @@ Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
 
 ## 📺 Universal Version
 
-Build your own following the step-by-step guide!https://youtu.be/wruJ-BESnX8
+[![Watch the tutorial](https://img.youtube.com/vi/SfLk6zZxBrA/0.jpg)](https://www.youtube.com/watch?v=SfLk6zZxBrA)
 
-[![Watch the tutorial](https://img.youtube.com/vi/wruJ-BESnX8/0.jpg)](https://www.youtube.com/watch?v=SfLk6zZxBrA)
-
-> **Click the image above to watch the full tutorial on YouTube.**
-https://youtu.be/O2TaipFjLDM
 ## ✨ Features
 
 * **Full Speed Emulation:** Runs NES games smoothly thanks to the ESP32-S3's dual-core power.
